@@ -50,44 +50,44 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 
 <hr>
 
-<h2 align="center">🛠 Technical Skills</h2>
+<h2 align="center">Technical Skills</h2>
 
 <p>
-<b>Languages:</b> Python, JavaScript, SQL, C++
+<b>Languages:</b> Python, JavaScript, C++, HTML5, CSS3
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,postgres,cpp" />
-</p>
-
-<br>
-
-<p>
-<b>Frontend:</b> React, Next.js, HTML, CSS
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" />
 </p>
 
 <br>
 
 <p>
-<b>Backend:</b> Node.js, Express.js, ASP.NET Core, Supabase, PostgreSQL
+<b>Frontend:</b> React, Next.js
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,supabase,postgres" />
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
 <br>
 
 <p>
-<b>Dev Tools:</b> Git, GitHub, VS Code, Postman, Jira, Figma
+<b>Backend:</b> Node.js, ASP.NET Core, Supabase, MongoDB
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,supabase,mongodb" />
+</p>
+
+<br>
+
+<p>
+<b>Dev Tools:</b> Git, GitHub, Vercel, Cursor
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
 <hr>
