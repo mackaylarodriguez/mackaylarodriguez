@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:7C3AED&text=Mackayla%20Rodriguez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Computer%20Science%20Graduate%20|%20First-Generation%20Latina&descAlignY=58" />
+</p>
+
 <div align="center">
 
 <h1>Hi, I'm Mackayla Rodriguez</h1>
