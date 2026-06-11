@@ -70,16 +70,46 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase" />
 </p>
 
-<h3>Tools & Technologies</h3>
+<hr>
+
+<h2 align="center">🛠 Technical Skills</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<b>Languages:</b> JavaScript (ES6+), Python, SQL, C++, C#
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=js,python,cpp,cs" />
+</p>
+
+<br>
+
+<p>
+<b>Frontend:</b> React, Next.js, HTML5, CSS3, Tailwind CSS
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+<br>
+
+<p>
+<b>Backend:</b> Node.js, Express.js, ASP.NET Core, Supabase, PostgreSQL
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,supabase,postgres" />
+</p>
+
+<br>
+
+<p>
+<b>Dev Tools:</b> Git, GitHub, VS Code, Postman, Jira, Figma
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 <hr>
