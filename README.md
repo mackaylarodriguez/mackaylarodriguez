@@ -57,7 +57,7 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js,postgres,cpp" />
 </p>
 
 <br>
