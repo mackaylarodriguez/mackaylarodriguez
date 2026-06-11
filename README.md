@@ -6,7 +6,6 @@
 Fullstack Engineer | Computer Science Graduate | First Generation Latina
 </h3>
 
-<img
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+%26+Data+Solutions;Full-Stack+Developer;Building+Technology+That+Creates+Impact" />
 alt="Typing SVG"
 />
