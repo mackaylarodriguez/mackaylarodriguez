@@ -50,42 +50,20 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 
 <hr>
 
-<h2 align="center">Technical Skills</h2>
-
-<h3>Languages</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,cs,html,css,sql" />
-</p>
-
-<h3>Frontend Development</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-<h3>Backend & Databases</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase" />
-</p>
-
-<hr>
-
 <h2 align="center">🛠 Technical Skills</h2>
 
 <p>
-<b>Languages:</b> JavaScript (ES6+), Python, SQL, C++, C#
+<b>Languages:</b> Python, JavaScript, SQL, C++
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp" />
 </p>
 
 <br>
 
 <p>
-<b>Frontend:</b> React, Next.js, HTML5, CSS3, Tailwind CSS
+<b>Frontend:</b> React, Next.js, HTML, CSS
 </p>
 
 <p>
