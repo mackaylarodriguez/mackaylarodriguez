@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>Hi, I'm Mackayla Rodriguez 👋</h1>
+<h1>Hi, I'm Mackayla Rodriguez</h1>
 
 <h3>
-Software Engineer | Data Analytics Professional | Front-End Developer
+Fullstack Engineer | Computer Science Graduate | First Generation Latina
 </h3>
 
 <img
@@ -13,15 +13,15 @@ alt="Typing SVG"
 
 <br><br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://mackaylarodriguez.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/mackayla-rodriguez-150a9937a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_URL">
+<a href="https://docs.google.com/document/d/1ihEFUdSX6hF6Ih92nBVHVmCqJxf3vLVB5bdmJM3DwU8/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge"/>
 </a>
 
