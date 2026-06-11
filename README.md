@@ -8,7 +8,7 @@ Fullstack Engineer | Computer Science Graduate | First Generation Latina
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+%26+Data+Solutions;Software+Engineer;Building+Technology+That+Creates+Impact" />
 
-<br>
+<br><br>
 
 <a href="https://mackaylarodriguez.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
