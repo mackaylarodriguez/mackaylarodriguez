@@ -92,35 +92,15 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 
 <hr>
 
-<h2 align="center">📜 Certifications</h2>
-
-<p>
-🏆 Google Data Analytics Professional Certificate
-</p>
-
-<p>
-🏆 Meta Front-End Developer Certificate
-</p>
-
-<p>
-🏆 Amazon Introduction to Software Development
-</p>
-
-<p>
-🏆 Python & Data Science Professional Development
-</p>
-
-<hr>
-
-<h2 align="center">📈 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=mackaylarodriguez&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackaylarodriguez&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -129,50 +109,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=mackaylarodriguez&theme=tokyonight&hide_border=true"
 />
 
 </div>
 
-<hr>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=6"
-/>
-
-</div>
-
-<hr>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h3>
-Building technology that creates meaningful impact.
-</h3>
-
-</div>
-```
