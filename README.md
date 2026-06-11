@@ -35,24 +35,12 @@ Fullstack Engineer | Computer Science Graduate | First Generation Latina
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-As a first-generation Latina and Computer Science graduate, I am passionate about using technology to solve real-world problems and create meaningful impact.
-</p>
-
-<p align="center">
-Experienced in software development, database management, data analytics, and IT systems support through internships, research, and project-based experience.
-</p>
-
-<p align="center">
-I enjoy building user-focused applications, analyzing data to uncover insights, and collaborating with others to create solutions that make a difference.
-</p>
-
-<p align="center">
-My background combines technical expertise with leadership, communication, and project management experience gained through both technology and nonprofit work.
+As a first-generation Latina and Computer Science graduate, I am passionate about using technology to solve real-world problems and create meaningful impact. I love to build scalable web applications, designing efficient systems, and creating solutions that improve everyday experiences. 
 </p>
 
 <hr>
 
-<h2 align="center">💼 Experience & Research</h2>
+<h2 align="center">Professional Background</h2>
 
 <table>
 
