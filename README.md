@@ -92,27 +92,7 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 
 <hr>
 
-<h2 align="center">GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=mackaylarodriguez&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackaylarodriguez&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=mackaylarodriguez&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+</p>
 
