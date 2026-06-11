@@ -41,7 +41,7 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 <h2 align="center">Professional Background</h2>
 
 <p align="center">
-🤖 Currently an <b>AI Business Solutions Engineer Fellow at The Knowledge House</b>, developing AI-powered automation and data-driven solutions.
+🤖 Currently an <b>AI Business Solutions Fellow at The Knowledge House</b>, developing AI-powered automation and data-driven solutions.
 <br><br>
 📊 Former <b>Technology Intern at UNITE-LA</b>, supporting data management, reporting, and workflow automation initiatives.
 <br><br>
