@@ -50,7 +50,7 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 
 <hr>
 
-<h2 align="center">🛠️ Technical Skills</h2>
+<h2 align="center">Technical Skills</h2>
 
 <h3>Languages</h3>
 
