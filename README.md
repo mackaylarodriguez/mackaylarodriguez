@@ -1,12 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mackayla%20Rodriguez&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Solutions%20%7C%20Front-End%20Developer&descAlignY=58"/>
-</p>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Graduate;Software+Engineer;AI+%26+Data+Solutions;Building+Technology+That+Creates+Impact" />
-
-</div>
-
 <div align="center">
 
 <h1>Hi, I'm Mackayla Rodriguez</h1>
