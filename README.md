@@ -40,69 +40,17 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 
 <h2 align="center">Professional Background</h2>
 
-<table>
+<hr>
 
-<tr>
-<td>
+<h2 align="center">💼 Professional Background</h2>
 
-<h3>🤖 AI Business Solutions Engineer Intern</h3>
-
-<b>The Knowledge House</b> | Los Angeles, CA
-
-<br>
-<em>January 2026 – Present</em>
-
-<ul>
-<li>Develop end-to-end data analysis and automation solutions using Python and AI tools.</li>
-<li>Transform business requirements into technical workflows that improve operational efficiency.</li>
-<li>Analyze business processes and identify opportunities for automation and optimization.</li>
-<li>Create technical documentation and presentations for non-technical stakeholders.</li>
-</ul>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<h3>📊 Technology Intern</h3>
-
-<b>UNITE-LA</b> | Los Angeles, CA
-
-<br>
-<em>September 2025 – January 2026</em>
-
-<ul>
-<li>Created scripts and workflows to automate data cleaning and validation processes.</li>
-<li>Assisted in developing and testing data management solutions for reporting and operations.</li>
-<li>Completed Python and Data Science certifications while applying concepts to real-world projects.</li>
-<li>Improved data quality and operational efficiency through validation and workflow optimization.</li>
-</ul>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<h3>🔬 NIH BUILD PODER Scholar | Student Research Assistant</h3>
-
-<b>California State University, Northridge</b>
-
-<br>
-<em>September 2021 – May 2022</em>
-
-<ul>
-<li>Developed and tested a multi-object tracking system using Python.</li>
-<li>Optimized computer vision algorithms to improve object detection accuracy.</li>
-<li>Applied machine learning and computer vision techniques to mosquito population research.</li>
-<li>Maintained research code and documentation to support reproducibility and future development.</li>
-</ul>
-
-</td>
-</tr>
-
-</table>
+<p align="center">
+🤖 Currently an <b>AI Business Solutions Engineer Fellow at The Knowledge House</b>, developing AI-powered automation and data-driven solutions.
+<br><br>
+📊 Former <b>Technology Intern at UNITE-LA</b>, supporting data management, reporting, and workflow automation initiatives.
+<br><br>
+🔬 Former <b>NIH BUILD PODER Scholar & Research Assistant at CSUN</b>, conducting computer vision and object-tracking research using Python.
+</p>
 
 <hr>
 
