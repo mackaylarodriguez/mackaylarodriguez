@@ -92,66 +92,6 @@ As a first-generation Latina and Computer Science graduate, I am passionate abou
 
 <hr>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h3>🌍 Mission Hub</h3>
-
-<p>
-A centralized platform designed to streamline mission trip resources, participant communication, and training materials.
-</p>
-
-<b>Tech Stack:</b>
-React • Next.js • Supabase
-
-</td>
-
-<td width="50%">
-
-<h3>📈 Data Analytics Portfolio</h3>
-
-<p>
-A collection of analytics projects focused on SQL, business intelligence, data cleaning, and dashboard development.
-</p>
-
-<b>Tech Stack:</b>
-Python • SQL • Excel • Tableau
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3>💻 Software Engineering Projects</h3>
-
-<p>
-Full-stack applications demonstrating API integration, database management, responsive design, and modern development practices.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3>🌐 Personal Portfolio Website</h3>
-
-<p>
-A responsive website showcasing projects, experience, certifications, and technical skills.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<hr>
-
 <h2 align="center">📜 Certifications</h2>
 
 <p>
