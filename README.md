@@ -15,7 +15,6 @@
 </a>
 
 <a href="https://docs.google.com/document/d/1ihEFUdSX6hF6Ih92nBVHVmCqJxf3vLVB5bdmJM3DwU8/edit?usp=sharing">
-<a href="">
 <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge"/>
 </a>
 
