@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://docs.google.com/document/d/1ihEFUdSX6hF6Ih92nBVHVmCqJxf3vLVB5bdmJM3DwU8/edit?usp=sharing">
+<a href="https://docs.google.com/document/d/19sRk0peQxLQtbOG8kJXuhHtfUVt_jZkR6qwhLUzG-BU/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge"/>
 </a>
 
